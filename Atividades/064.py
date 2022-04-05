@@ -1,5 +1,4 @@
-nnn = 0
-soma = 0
+nnn = soma = 0
 while nnn != 999:
     nnn = int(input('Para parar, digite [999] >'))
     if nnn != 999:
